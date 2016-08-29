@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "549CB53F9CF7800463ECB4FE1A21E8F00907BF75",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "88EFCEAC42A9049BBFE200767CC7F994AC461D4A" : 0,
+    "549CB53F9CF7800463ECB4FE1A21E8F00907BF75" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D304BD87-0DBE-4620-9F51-10BF6A7EA93B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "88EFCEAC42A9049BBFE200767CC7F994AC461D4A" : "",
+    "549CB53F9CF7800463ECB4FE1A21E8F00907BF75" : "%E7%AE%80%E4%B9%A6%E5%8D%9A%E5%AE%A2Demo-%E4%BB%A3%E7%90%86%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Delegate-Demo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Delegate-Demo\/Delegate-Demo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DeveloperErenLiu\/BlogDemo-Delegate.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "549CB53F9CF7800463ECB4FE1A21E8F00907BF75"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/NewDream\/fengdu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "88EFCEAC42A9049BBFE200767CC7F994AC461D4A"
+    }
+  ]
+}
